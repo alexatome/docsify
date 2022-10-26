@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
+* [Home](README.md)
 * [Install Applications](install_apps.md)
 * [Prepare Devices for Demo](prep_devices.md)
 * [Troubleshooting](troubleshoot.md)
